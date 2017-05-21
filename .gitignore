@@ -1,3 +1,5 @@
+environments/*
+!environments/.gitkeep
 /vendor/
 /logs/*
 !/logs/README.md
